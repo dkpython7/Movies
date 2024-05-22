@@ -1,0 +1,67 @@
+.st-emotion-cache-bm2z3a {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(168, 248, 241);
+}
+
+
+span.st-emotion-cache-10trblm {
+    position: relative;
+    flex: 1 1 0%;
+    margin-left: calc(3rem);
+    background-color: rgb(0, 2, 2);
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    color: azure;
+}
+st-emotion-cache-7ym5gk {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
+    min-height: 38.4px;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: rgba(236, 114, 43, 0.521);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+
+.st-emotion-cache-183lzff {
+    font-family: "Source Code Pro", monospace;
+    white-space: pre;
+    font-size: 15px;
+    overflow-x: auto;
+    border: black;
+    background-color: rgb(233, 147, 147);
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+}
+img, svg {
+    vertical-align: middle;
+    border-radius: 20px;
+    box-shadow: 10px ;
+    
+}
+element.style {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    overflow: auto;
+    will-change: transform;
+    direction: ltr;
+    background-color: aquamarine;
+}
